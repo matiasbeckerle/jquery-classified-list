@@ -1,3 +1,3 @@
 # jquery-classified-list
 
-Very old fun project I did when learning `jQuery` years ago.
+Very old fun project I did when practicing `jQuery` years ago.
